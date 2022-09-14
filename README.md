@@ -1,6 +1,6 @@
 # Porifolio
 
-<img src="readme.png" alt="exemplo imagem">
+<img src="imagem_2022-09-14_125458187.png" alt="exemplo imagem">
 
 > This site serves as my portfolio where I will aggregate all projects and my contacts as well as other information in the future.
 
