@@ -1,4 +1,4 @@
-# Porifolio
+# Portifolio
 
 <img src="imagem_2022-09-14_125458187.png" alt="exemplo imagem">
 
@@ -17,7 +17,7 @@ Before you run, check if you attend to requisites below:
 * You have installed all dependencies with npm `<npm install>`
 * You have a `<Windows / Linux / Mac>` machine.
 
-## 🚀 Instaling <Porifolio>
+## 🚀 Instaling <Portifolio>
 
 To install <Porifolio>, follow this steps:
 
@@ -28,7 +28,7 @@ on aplication folder, open console and type:
 <npm install>
 ```
 
-## ☕ Using <Porifolio>
+## ☕ Using <Portifolio>
 
 To use <Porifolio>, follow this steps:
 
