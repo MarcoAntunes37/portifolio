@@ -1,0 +1,13 @@
+.rotate {
+    transform: rotate(-90deg);
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+}
+
+.email-item{
+    margin-top: 4.5em;
+    width: 100px;
+    height: 100px;
+}
+

@@ -1,0 +1,20 @@
+.btn-primary{
+    color: #6DAFAC !important;
+    background-color: #0A1930 !important;
+    border-color: #576D73 !important;
+}
+
+.btn-primary:hover{
+  border-color: #6DAFAC !important;
+  font-weight: 500 !important;
+}
+
+.vr{
+  min-height: 7em !important; 
+  width: 2px !important;
+  opacity: 1 !important;
+}
+
+.card-text{
+  max-width: 400px;
+}

@@ -1,34 +1,40 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Porifolio
 
-## Getting Started
+<img src="readme.png" alt="exemplo imagem">
 
-First, run the development server:
+> This site serves as my portfolio where I will aggregate all projects and my contacts as well as other information in the future.
 
-```bash
-npm run dev
-# or
-yarn dev
+### Adjust and enchancement
+
+This project is not done yet, still dev and want add some features like:
+
+- [ ] Add more info like photo
+
+## 💻 Pré-requisites
+
+Before you run, check if you attend to requisites below:
+* You have the latest version of `<nodejs / npm>`
+* You have installed all dependencies with npm `<npm install>`
+* You have a `<Windows / Linux / Mac>` machine.
+
+## 🚀 Instaling <Porifolio>
+
+To install <Porifolio>, follow this steps:
+
+Windows:
+Clone repository:
+```
+on aplication folder, open console and type:
+<npm install>
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## ☕ Using <Porifolio>
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+To use <Porifolio>, follow this steps:
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+```
+on aplication folder, open console and type:
+<npm run dev / npm run build && npm start>
+```
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+[⬆ Back to top](#portifolio)<br>

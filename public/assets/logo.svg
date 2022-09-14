@@ -1,0 +1,13 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+	<title>logo</title>
+	<style>
+		tspan { white-space:pre } 
+		.t0 { font-size: 110px;fill: #6dafac;font-family: "Verdana" } 
+		.s1 { fill: none;stroke: #6dafac;stroke-width: 10.2 } 
+	</style>
+	<text id="M" style="transform: matrix(1,0,0,1,192,226)" >
+		<tspan x="-47.5" y="0" class="t0">M
+</tspan>
+	</text>
+	<path id="Polígono 1" class="s1" d="m266 230l-75.1 42.1-74-44 1.1-86.1 75.1-42.1 74 44z"/>
+</svg>
